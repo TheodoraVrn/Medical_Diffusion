@@ -1,1 +1,2 @@
-# Medical_Diffusion
+# Medical Image Applications of Diffusion Models
+Project of 
