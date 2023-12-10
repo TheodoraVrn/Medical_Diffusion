@@ -1,5 +1,5 @@
 # Medical Image Applications of Diffusion Models
-Project for the "advanced artificial intelligence subjects" class in NTUA (2023-2024).
+Project for the "advanced artificial intelligence problems" class in NTUA (2023-2024).
 
 ## Project
 The medical tutorials are based on the generative models of MONAI. MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. 
